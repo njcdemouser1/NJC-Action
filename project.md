@@ -16,9 +16,13 @@
 ## A single block
 
 > DevOps
+>
 > Azure
+>
 > GitHub
+>
 > Actions
+>
 > Pipelines
 
 ## Hierachical block
